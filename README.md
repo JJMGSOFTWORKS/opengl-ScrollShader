@@ -1,0 +1,1 @@
+This Project is a rewrite of David Gouvias Tutorial [Here](http://www.david-gouveia.com/portfolio/scrolling-textures-with-zoom-and-rotation/), originally for XNA

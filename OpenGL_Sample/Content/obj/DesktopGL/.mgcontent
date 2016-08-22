@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>HiDef</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/JJ/Desktop/Helper Clones/OpenGL_Sample/OpenGL_Sample/Content/NewEffect.fx</File>
+    <File>C:/Users/JJ/Desktop/Helper Clones/OpenGL_Sample/OpenGL_Sample/Content/bg.jpg</File>
+    <File>C:/Users/JJ/Desktop/Helper Clones/OpenGL_Sample/OpenGL_Sample/Content/font.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
